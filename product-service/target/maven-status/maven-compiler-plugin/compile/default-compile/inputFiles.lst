@@ -1,0 +1,7 @@
+/Users/taneracis/Desktop/microservice-parent/product-service/src/main/java/com/microservice/productservice/dto/ProductResponse.java
+/Users/taneracis/Desktop/microservice-parent/product-service/src/main/java/com/microservice/productservice/ProductServiceApplication.java
+/Users/taneracis/Desktop/microservice-parent/product-service/src/main/java/com/microservice/productservice/repository/ProductRepository.java
+/Users/taneracis/Desktop/microservice-parent/product-service/src/main/java/com/microservice/productservice/model/Product.java
+/Users/taneracis/Desktop/microservice-parent/product-service/src/main/java/com/microservice/productservice/service/ProductService.java
+/Users/taneracis/Desktop/microservice-parent/product-service/src/main/java/com/microservice/productservice/dto/ProductRequest.java
+/Users/taneracis/Desktop/microservice-parent/product-service/src/main/java/com/microservice/productservice/controller/ProductController.java
